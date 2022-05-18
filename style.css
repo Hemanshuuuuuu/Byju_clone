@@ -734,9 +734,6 @@ footer p {
 }
 
 @media screen and (max-width:501px) {
-    #navbar .navbar img {
-        width: 38%;
-    }
     .navbar .nav {
         /* flex-direction: column; */
         display: flex;
